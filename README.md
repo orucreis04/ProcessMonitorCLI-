@@ -66,8 +66,8 @@ A powerful, modular command-line tool for monitoring, analyzing, and reporting o
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/process-monitor-cli.git
-cd process-monitor-cli
+git clone https://github.com/orucreis04/ProcessMonitorCLI-.git
+cd ProcessMonitorCLI-
 ```
 
 2. **Create virtual environment**
